@@ -5,16 +5,15 @@ description = ""
 authors = ["Dmitriy Aksenov <ww7910@yandex.ru>"]
 readme = "README.md"
 packages = [
-  { include = "brain_games" },
+    { include = "brain_games" },
 ]
+
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
 
-
 [tool.poetry.dependencies]
 python = "^3.8"
-
 
 [build-system]
 requires = ["poetry-core"]
