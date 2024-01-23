@@ -1,5 +1,5 @@
-### Python-package brain-games
-#### Description
+## Python-package brain-games
+### Description
 This implementation of the brain-games includes five games:
 * brain-even<br>
 Answer the question is an even number or not
@@ -12,17 +12,49 @@ Find the missing number in the arithmetic progression
 * brain-prime<br>
 Answer the question is the number prime or not
 
-### CodeClimate
+## CodeClimate
 [![Maintainability](https://api.codeclimate.com/v1/badges/761a09f469108464001d/maintainability)](https://codeclimate.com/github/DmitryAksenovRussia/python-project-49/maintainability)
 
 
-### Asciinema for all games
+## Asciinema for all games
+
+### brain-games
+https://asciinema.org/a/fNfmi2iN9DzammzjmZMApNVWw
+
+### brain-even
+* Correct answers:<br>
+https://asciinema.org/a/cajiRtFgQzlM9vHOV7rXoztvk
+* Incorrect answers:<br>
+https://asciinema.org/a/MDdLl0IIdsqGTYgS8NMhFsOlC
+
+### brain-calc
+* Correct answers:<br>
+https://asciinema.org/a/T6vgexwFx8RanqI5qhbSwV6tm
+* Incorrect answers:<br>
+https://asciinema.org/a/dnIHBeN5nO0o8fAfiazzdsGr6
+
+### brain-gcd
+* Correct answers:<br>
+https://asciinema.org/a/6sYixxFuIC67Ai9750PeWkYj4
+* Incorrect answers:<br>
+https://asciinema.org/a/NP3loZPEZaFtaYVVXZT8lr4lJ
+
+### brain-prime
+* Correct answers:<br>
+https://asciinema.org/a/xFOPEBZn52O4dujTUSmlpyP12
+* Incorrect answers:<br>
+https://asciinema.org/a/PDI90VqNionRX5EdVIgDUwv2K
+
+### brain-progression
+* Correct answers:<br>
+https://asciinema.org/a/mGncBVWlDIjPJGpY4KggrXBgN
+* Incorrect answers:<br>
+https://asciinema.org/a/0SCR64QkztypmmGbJNI5LbgKy
 
 
 
 
-
-### Links
+## Links
 
 | Tool                                                    | Description                                                                              |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------|
