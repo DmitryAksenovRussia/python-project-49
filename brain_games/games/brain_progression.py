@@ -16,7 +16,8 @@ def get_progression_and_missed_number() -> tuple:
 
     start = random.randint(MIN_RANDOM_NUMBER, MAX_RANDON_NUMBER)
     step = random.randint(MIN_RANDOM_NUMBER, MAX_STEP_PROGRESSION)
-    length_progression = random.randint(MIN_LENGHT_PROGRESSION, MAX_LENGHT_PROGRESSION)
+    length_progression = random.randint(MIN_LENGHT_PROGRESSION,
+                                        MAX_LENGHT_PROGRESSION)
 
     progression = [str(start + step * i) for i in range(length_progression)]
     missed_index = random.randint(0, length_progression - 1)

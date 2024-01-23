@@ -5,17 +5,19 @@ NUMBER_OF_QUESTIONS_IN_GAME = 3
 
 
 def input_response_from_player():
-    """The function reads the player's response from the console and returns it."""
+    """The function reads the player's response from the console
+     and returns it."""
 
     response = prompt.string("Your answer: ")
     return response
 
 
-def print_wrong_answer_sentense(response_player, right_answer, name_player):
+def print_wrong_answer(response_player, right_answer, name_player):
     """The function prints a message with the player's incorrect answer
     and correct answer."""
 
-    print(f"'{response_player}' is wrong answer :(. Correct answer was '{right_answer}'")
+    print(f"'{response_player}' is wrong answer :(. ", end=' ')
+    print(f"Correct answer was '{right_answer}'")
     print(f"Let's try again, {name_player}!")
 
 
@@ -40,7 +42,7 @@ def run_game(game_rules, current_game):
         response_player = input_response_from_player()
 
         if response_player != right_answer:
-            print_wrong_answer_sentense(response_player, right_answer, name_player)
+            print_wrong_answer(response_player, right_answer, name_player)
             return
         else:
             print('Correct!')
