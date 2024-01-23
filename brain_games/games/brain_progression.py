@@ -10,7 +10,10 @@ MAX_RANDON_NUMBER = 100
 MAX_STEP_PROGRESSION = 10
 
 
-def get_progression_and_missed_number():
+def get_progression_and_missed_number() -> tuple:
+    """The function generates an arithmetiv sequene, deletes one number
+     and returns its."""
+
     start = random.randint(MIN_RANDOM_NUMBER, MAX_RANDON_NUMBER)
     step = random.randint(MIN_RANDOM_NUMBER, MAX_STEP_PROGRESSION)
     length_progression = random.randint(MIN_LENGHT_PROGRESSION, MAX_LENGHT_PROGRESSION)

@@ -1,7 +1,7 @@
 import prompt
 
 
-def welcome_user():
+def welcome_user() -> str:
     """The function prints the player's greeting by name."""
 
     print("Welcome to the Brain Games!")

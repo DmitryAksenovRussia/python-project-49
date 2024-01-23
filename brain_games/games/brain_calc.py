@@ -8,7 +8,7 @@ MIN_RANDOM_NUMBER = 1
 MAX_RANDOM_NUMBER = 100
 
 
-def calculate_result(number_1, number_2, math_sign):
+def calculate_result(number_1: int, number_2: int, math_sign: str) -> int:
     """The function calculates the value between two numbers
     according to the passed sign."""
 
@@ -20,7 +20,7 @@ def calculate_result(number_1, number_2, math_sign):
         return number_1 * number_2
 
 
-def get_math_expression_and_result():
+def get_math_expression_and_result() -> tuple:
     """The function returns the generated expression
     between two numbers and result of its calculation"""
 
