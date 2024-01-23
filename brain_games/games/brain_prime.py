@@ -1,7 +1,7 @@
 from brain_games.game_engine.game_engine import run_game
 import random
 
-GAME_RULES = "Answer 'yes' if given is prime. Otherwise answer 'no'."
+GAME_RULES = 'Answer "yes" if given is prime. Otherwise answer "no".'
 MIN_RANDOM_NUMBER = 1
 MAX_RANDOM_NUMBER = 100
 
