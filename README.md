@@ -19,46 +19,34 @@ Answer the question is the number prime or not
 ## Asciinema for all games
 
 ### brain-games
-https://asciinema.org/a/fNfmi2iN9DzammzjmZMApNVWw
+<a href="https://asciinema.org/a/fNfmi2iN9DzammzjmZMApNVWw" target = "_blank"><img src="https://asciinema.org/a/fNfmi2iN9DzammzjmZMApNVWw.svg"/></a>
 
 ### brain-even
 * Correct answers:<br>
-https://asciinema.org/a/cajiRtFgQzlM9vHOV7rXoztvk
+<a href="https://asciinema.org/a/cajiRtFgQzlM9vHOV7rXoztvk" target = "_blank"><img src="https://asciinema.org/a/cajiRtFgQzlM9vHOV7rXoztvk.svg"/></a>
 * Incorrect answers:<br>
-https://asciinema.org/a/MDdLl0IIdsqGTYgS8NMhFsOlC
+<a href="https://asciinema.org/a/MDdLl0IIdsqGTYgS8NMhFsOlC" target = "_blank"><img src="https://asciinema.org/a/MDdLl0IIdsqGTYgS8NMhFsOlC.svg"/></a>
 
 ### brain-calc
 * Correct answers:<br>
-https://asciinema.org/a/T6vgexwFx8RanqI5qhbSwV6tm
+<a href="https://asciinema.org/a/T6vgexwFx8RanqI5qhbSwV6tm" target = "_blank"><img src="https://asciinema.org/a/T6vgexwFx8RanqI5qhbSwV6tm.svg"/></a>
 * Incorrect answers:<br>
-https://asciinema.org/a/dnIHBeN5nO0o8fAfiazzdsGr6
+<a href="https://asciinema.org/a/dnIHBeN5nO0o8fAfiazzdsGr6" target = "_blank"><img src="https://asciinema.org/a/dnIHBeN5nO0o8fAfiazzdsGr6.svg"/></a>
 
 ### brain-gcd
 * Correct answers:<br>
-https://asciinema.org/a/6sYixxFuIC67Ai9750PeWkYj4
+<a href="https://asciinema.org/a/6sYixxFuIC67Ai9750PeWkYj4" target = "_blank"><img src="https://asciinema.org/a/6sYixxFuIC67Ai9750PeWkYj4.svg"/></a>
 * Incorrect answers:<br>
-https://asciinema.org/a/NP3loZPEZaFtaYVVXZT8lr4lJ
+<a href="https://asciinema.org/a/NP3loZPEZaFtaYVVXZT8lr4lJ" target = "_blank"><img src="https://asciinema.org/a/NP3loZPEZaFtaYVVXZT8lr4lJ.svg"/></a>
 
 ### brain-prime
 * Correct answers:<br>
-https://asciinema.org/a/xFOPEBZn52O4dujTUSmlpyP12
+<a href="https://asciinema.org/a/xFOPEBZn52O4dujTUSmlpyP12" target = "_blank"><img src="https://asciinema.org/a/xFOPEBZn52O4dujTUSmlpyP12.svg"/></a>
 * Incorrect answers:<br>
-https://asciinema.org/a/PDI90VqNionRX5EdVIgDUwv2K
+<a href="https://asciinema.org/a/PDI90VqNionRX5EdVIgDUwv2K" target = "_blank"><img src="https://asciinema.org/a/PDI90VqNionRX5EdVIgDUwv2K.svg"/></a>
 
 ### brain-progression
 * Correct answers:<br>
-https://asciinema.org/a/mGncBVWlDIjPJGpY4KggrXBgN
+<a href="https://asciinema.org/a/mGncBVWlDIjPJGpY4KggrXBgN" target = "_blank"><img src="https://asciinema.org/a/mGncBVWlDIjPJGpY4KggrXBgN.svg"/></a>
 * Incorrect answers:<br>
-https://asciinema.org/a/0SCR64QkztypmmGbJNI5LbgKy
-
-
-
-
-## Links
-
-| Tool                                                    | Description                                                                              |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------|
-| [poetry](https://python-poetry.org/)                    | "Python dependency and packing made easy"                                                | 
-| [flake8](https://flake8.pycqa.org/en/latest/)           | "A mature full-featured Python testing tool"                                             |
-| [Makefile](https://makefiletutorial.com/)               | "Makefiles are used to help decide which parts of a large program need to be recompiled" |
-| [Markdown](https://www.markdownguide.org/basic-syntax/) | "The Markdown elements outlined in the original design document"                         |
+<a href="https://asciinema.org/a/0SCR64QkztypmmGbJNI5LbgKy" target = "_blank"><img src="https://asciinema.org/a/0SCR64QkztypmmGbJNI5LbgKy.svg"/></a>

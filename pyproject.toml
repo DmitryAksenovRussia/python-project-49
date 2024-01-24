@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "This implementation of the brain-games includes five games: brain-even, brain-calc, brain-gcd, brain_prime, brain-progression"
 authors = ["Dmitriy Aksenov <ww7910@yandex.ru>"]
 readme = "README.md"
 packages = [
