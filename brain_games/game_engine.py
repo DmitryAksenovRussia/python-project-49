@@ -3,7 +3,7 @@ import prompt
 NUMBER_OF_QUESTIONS_IN_GAME = 3
 
 
-def run_game(game_rules, current_game):
+def run_game(game_module):
     """Common function for all games.
 
     First parameter: The rules of the right game.
@@ -17,10 +17,10 @@ def run_game(game_rules, current_game):
 
     name_player = prompt.string("Welcome to the Brain Games!\n"
                                 "May I have your name? ")
-    print(f"Hello, {name_player}!\n{game_rules}")
+    print(f"Hello, {name_player}!\n{game_module.GAME_RULES}")
 
     for _ in range(NUMBER_OF_QUESTIONS_IN_GAME):
-        question_to_player, right_answer = current_game()
+        question_to_player, right_answer = game_module.get_question_and_answer()
         response_player = prompt.string(f"Question: {question_to_player}\n"
                                         "Your answer: ")
 

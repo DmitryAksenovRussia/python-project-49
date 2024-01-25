@@ -1,4 +1,3 @@
-from brain_games.game_engine import run_game
 import random
 import math
 
@@ -20,5 +19,5 @@ def get_nums_pair_and_gcd() -> tuple:
     return nums_pair, str(gcd)
 
 
-def brain_gcd():
-    run_game(GAME_RULES, get_nums_pair_and_gcd)
+def get_question_and_answer():
+    return get_nums_pair_and_gcd()

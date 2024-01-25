@@ -1,4 +1,3 @@
-from brain_games.game_engine import run_game
 import random
 
 
@@ -11,8 +10,8 @@ MAX_STEP_PROGRESSION = 10
 
 
 def get_progression_and_missed_number() -> tuple:
-    """The function generates an arithmetiv sequene, deletes one number
-     and returns its."""
+    """The function generates an arithmetic progression, removes one element
+     and returns them."""
 
     start = random.randint(MIN_RANDOM_NUMBER, MAX_RANDON_NUMBER)
     step = random.randint(MIN_RANDOM_NUMBER, MAX_STEP_PROGRESSION)
@@ -27,5 +26,5 @@ def get_progression_and_missed_number() -> tuple:
     return ' '.join(progression), missed_number
 
 
-def brain_progression():
-    run_game(GAME_RULES, get_progression_and_missed_number)
+def get_question_and_answer():
+    return get_progression_and_missed_number()

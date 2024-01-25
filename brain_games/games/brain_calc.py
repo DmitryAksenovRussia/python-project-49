@@ -1,4 +1,3 @@
-from brain_games.game_engine import run_game
 import random
 
 
@@ -34,5 +33,5 @@ def get_math_expression_and_result() -> tuple:
     return expression, str(result)
 
 
-def brain_calc():
-    run_game(GAME_RULES, get_math_expression_and_result)
+def get_question_and_answer():
+    return get_math_expression_and_result()

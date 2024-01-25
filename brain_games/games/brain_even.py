@@ -1,4 +1,3 @@
-from brain_games.game_engine import run_game
 import random
 
 
@@ -23,5 +22,5 @@ def get_number_and_even_answer() -> tuple:
     return str(number), right_answer
 
 
-def brain_even():
-    run_game(GAME_RULES, get_number_and_even_answer)
+def get_question_and_answer():
+    return get_number_and_even_answer()

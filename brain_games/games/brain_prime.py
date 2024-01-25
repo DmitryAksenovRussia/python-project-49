@@ -1,4 +1,3 @@
-from brain_games.game_engine import run_game
 import random
 
 GAME_RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
@@ -29,5 +28,5 @@ def get_number_and_prime_answer() -> tuple:
     return str(number), answer
 
 
-def brain_prime():
-    run_game(GAME_RULES, get_number_and_prime_answer)
+def get_question_and_answer():
+    return get_number_and_prime_answer()
