@@ -1,7 +1,7 @@
 import random
 
 
-GAME_RULES = 'What is the result of the expression?'
+RULES = 'What is the result of the expression?'
 MATH_SIGNS = ('+', '-', '*')
 MIN_RANDOM_NUMBER = 1
 MAX_RANDOM_NUMBER = 100
